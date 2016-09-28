@@ -1,0 +1,36 @@
+{
+    "title": "EEGLAB 中文教程",
+    "description": "EEGLAB 作为最流行的脑电分析工具包，却没有一份详细的中文教程。现在是时候填补这个空缺了。",
+    "language": "zh",
+    "plugins": [
+        "disqus",
+        "github",
+        "editlink",
+        "prism",
+        "-highlight",
+        "splitter",
+        "sitemap",
+        "image-captions"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "lix90"
+        },
+        "github": {
+            "url": "https://github.com/lix90/eeglab_cn"
+        },
+        "editlink": {
+            "base": "https://github.com/lix90/eeglab_cn/blob/master/content",
+            "label": {
+                "zh-cn": "编辑本页",
+                "en": "Edit This Page"
+            }
+        },
+        "sitemap": {
+            "hostname": "http://lix90.github.io/"
+        },
+        "image-captions": {
+            "caption": "Image - _CAPTION_"
+        }
+    }
+}
