@@ -1,7 +1,7 @@
 {
     "title": "EEGLAB 中文教程",
     "description": "EEGLAB 作为最流行的脑电分析工具包，却没有一份详细的中文教程。现在是时候填补这个空缺了。",
-    "language": "zh",
+    "language": "zh-cn",
     "plugins": [
         "disqus",
         "github",
