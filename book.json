@@ -7,11 +7,10 @@
         "github",
         "editlink",
         "prism",
-        "-highlight",
+        "highlight",
         "splitter",
-        "sitemap",
         "image-captions",
-        "expandable-chapters"   // add an icon to each chapter
+        "expandable-chapters"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -26,9 +25,6 @@
                 "zh-cn": "编辑本页",
                 "en": "Edit This Page"
             }
-        },
-        "sitemap": {
-            "hostname": "http://lix90.github.io/"
         },
         "image-captions": {
             "caption": "Image - _CAPTION_"
