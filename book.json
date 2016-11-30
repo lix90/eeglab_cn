@@ -10,7 +10,8 @@
         "-highlight",
         "splitter",
         "sitemap",
-        "image-captions"
+        "image-captions",
+        "expandable-chapters"   // add an icon to each chapter
     ],
     "pluginsConfig": {
         "disqus": {
@@ -31,6 +32,9 @@
         },
         "image-captions": {
             "caption": "Image - _CAPTION_"
+        },
+        "pluginsConfig":{
+            "expandable-chapters":{}
         }
     }
 }
